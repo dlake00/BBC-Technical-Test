@@ -5,7 +5,7 @@ The following is my solution to the Game of Life problem provided.
 
 ### Features of Solution
 
-I built my solution in Java and it is comprised of the following four classes:
+I built my solution in Java and it's comprised of the following four classes:
 
 - Coordinates.java
 - GameApp.java
@@ -31,7 +31,7 @@ The final class, "GameApp", is able to call methods from the other classes and s
 ## Evaluation
 Apologies in advance if you feel I went beyond the scope of the original exercise by introducing a small app and grid output. I found this exercise challenging but rewarding and am grateful for the experience.
 
-I attempted to take an object oriented approach to my solution by diving my work into classes as I have learned it is generally considered good practice.
+I attempted to take an object oriented approach to my solution by dividing my work into classes as I have learned it is generally considered good practice.
 
 This, along with the basic javadoc I have provided, should hopefully lend to the readability of my code and I would like to thank you in advance for taking the time to consider me.
 
